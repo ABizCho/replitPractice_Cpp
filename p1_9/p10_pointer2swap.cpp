@@ -22,7 +22,7 @@ int main()
   
   cout << "original v1: "<< v1 <<" | v2 : "<<v2<<endl;
   swap(&v1,&v2);
-  cout << "swaped v1: "<< v1 <<" | v2 : "<<v2<<endl;
+  cout << "swapped v1: "<< v1 <<" | v2 : "<<v2<<endl;
   
   return 0;
 }
